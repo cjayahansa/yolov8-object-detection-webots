@@ -33,4 +33,5 @@ python camera_controller_yolov8n.py
 ```
 ![image](https://github.com/cjayahansa/yolov8-object-detection-webots/blob/main/Screenshot%20from%202025-11-25%2000-58-24.png)
 ![image](https://github.com/cjayahansa/yolov8-object-detection-webots/blob/main/Screenshot%20from%202025-11-25%2000-59-34.png)
+![image](https://github.com/cjayahansa/yolov8-object-detection-webots/blob/main/Screenshot%20from%202025-11-25%2001-10-37.png)
 
